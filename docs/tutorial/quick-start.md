@@ -127,7 +127,7 @@ Finally the `index.html` is the web page you want to show:
 ## Run your app
 
 After you're done writing your app, you can create a distribution by
-following the [Application distribution](./application-distribution.md) guide
+following the [Application distribution](../application-distribution.md) guide
 and then execute the packaged app. You can also just use the downloaded
 Electron binary to execute your app directly.
 
