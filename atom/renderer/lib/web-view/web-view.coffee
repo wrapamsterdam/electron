@@ -289,6 +289,8 @@ registerWebViewElement = ->
     "send"
     "getId"
     "inspectServiceWorker"
+    "print"
+    "printToPDF"
   ]
 
   # Forward proto.foo* method calls to WebViewImpl.foo*.
